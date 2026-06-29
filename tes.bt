@@ -1,0 +1,8 @@
+kata nama = masukin
+angka nilai = masukin
+
+kalo nilai > 75
+    cetak "Lulus"
+kaga
+    cetak "Gagal"
+kelar
